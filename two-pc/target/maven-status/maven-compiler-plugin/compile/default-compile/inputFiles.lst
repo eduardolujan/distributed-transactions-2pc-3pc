@@ -1,6 +1,0 @@
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/account/Account.java
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/account/AccountId.java
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/money/Money.java
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/transaction/TransactionId.java
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/transfer/Transfer.java
-/Users/eduardo/Documents/projects/java/distributed-transactions-2pc3pc/two-pc/src/main/java/com/educational/twopc/domain/model/transfer/TransferId.java
