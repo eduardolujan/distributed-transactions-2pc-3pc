@@ -1,0 +1,6 @@
+com/educational/twopc/domain/model/money/Money.class
+com/educational/twopc/domain/model/transfer/TransferId.class
+com/educational/twopc/domain/model/account/Account.class
+com/educational/twopc/domain/model/account/AccountId.class
+com/educational/twopc/domain/model/transfer/Transfer.class
+com/educational/twopc/domain/model/transaction/TransactionId.class
